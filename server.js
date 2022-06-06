@@ -1,9 +1,8 @@
 const dotenv=require('dotenv').config()
 const express =require('express');
 const app=express();
-
+ 
 //Environment Variables init
-
 const PORT =process.env.SERVER_PORT;
 
 //server body init
