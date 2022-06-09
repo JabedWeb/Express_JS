@@ -13,6 +13,9 @@
 // app.patch('/api/students/:id',(req,res)=>{
 //     res.send(`Patch Route Done with id : ${req.params.id} `)
 // });
+// app.delete('/api/students/:id',(req,res)=>{
+//     res.send(`Delete Route Done with id : ${req.params.id} `)
+// });
 // app.listen(5050,()=>{
 //     console.log(`server is running on 5050 port`);
 // })
